@@ -1,0 +1,17 @@
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\obj\Debug\netcoreapp2.2\PrimeSift.Tests.csprojAssemblyReference.cache
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\obj\Debug\netcoreapp2.2\PrimeSift.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\obj\Debug\netcoreapp2.2\PrimeSift.Tests.AssemblyInfoInputs.cache
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\obj\Debug\netcoreapp2.2\PrimeSift.Tests.AssemblyInfo.cs
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\PrimeSift.Tests.deps.json
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\PrimeSift.Tests.runtimeconfig.json
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\PrimeSift.Tests.runtimeconfig.dev.json
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\PrimeSift.Tests.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\PrimeSift.Tests.pdb
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\PrimeSift.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\bin\Debug\netcoreapp2.2\PrimeSift.pdb
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\obj\Debug\netcoreapp2.2\PrimeSift.Tests.csproj.CopyComplete
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\obj\Debug\netcoreapp2.2\PrimeSift.Tests.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift.Tests\obj\Debug\netcoreapp2.2\PrimeSift.Tests.pdb

@@ -1,0 +1,11 @@
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\bin\Debug\netcoreapp2.2\PrimeSift.deps.json
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\bin\Debug\netcoreapp2.2\PrimeSift.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\bin\Debug\netcoreapp2.2\PrimeSift.pdb
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\obj\Debug\netcoreapp2.2\PrimeSift.csprojAssemblyReference.cache
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\obj\Debug\netcoreapp2.2\PrimeSift.csproj.CoreCompileInputs.cache
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\obj\Debug\netcoreapp2.2\PrimeSift.AssemblyInfoInputs.cache
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\obj\Debug\netcoreapp2.2\PrimeSift.AssemblyInfo.cs
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\obj\Debug\netcoreapp2.2\PrimeSift.dll
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\obj\Debug\netcoreapp2.2\PrimeSift.pdb
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\bin\Debug\netcoreapp2.2\PrimeSift.runtimeconfig.json
+C:\Users\Janet\Desktop\prime-sift.solution\PrimeSift\bin\Debug\netcoreapp2.2\PrimeSift.runtimeconfig.dev.json
