@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift.Tests\\PrimeSift.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift.Tests\\PrimeSift.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift.Tests\\PrimeSift.Tests.csproj",
+        "projectName": "PrimeSift.Tests",
+        "projectPath": "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift.Tests\\PrimeSift.Tests.csproj",
+        "packagesPath": "C:\\Users\\Janet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Janet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift\\PrimeSift.csproj": {
+                "projectPath": "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift\\PrimeSift.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift\\PrimeSift.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift\\PrimeSift.csproj",
+        "projectName": "PrimeSift",
+        "projectPath": "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift\\PrimeSift.csproj",
+        "packagesPath": "C:\\Users\\Janet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janet\\Desktop\\prime-sift.solution\\PrimeSift\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Janet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
